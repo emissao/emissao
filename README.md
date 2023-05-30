@@ -19,4 +19,9 @@
 <img alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><BR>
-Focado em evoluir cada vez mais na área tecnológica e nas relações com as pessoas ao redor.<br>
+
+Sobre Mim 🔥
+***
+Desenvolvedor Back-End. 
+Migrando de uma carreira em química, tendo atuado no campo da licenciatura e bacharel. Experiência em comunicação com grupos e organização de projetos e pesquisas.
+Focado em evoluir cada vez mais na área tecnológica e nas relações com as pessoas ao redor, sempre disposto a aprender e entregar o melhor trabalho possível.
