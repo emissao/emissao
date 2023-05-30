@@ -19,4 +19,4 @@
 <img alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><BR>
-Focado em evoluir cada vez mais na área tecnológica e nas relações com as pessoas ao redor, sempre disposto a aprender e evoluir.<br>
+Focado em evoluir cada vez mais na área tecnológica e nas relações com as pessoas ao redor.<br>
