@@ -1,4 +1,4 @@
-### Olá! Eu sou o Emerson (emissao_)! ✌️
+### Hi! I'm Emerson Alves(emissao_)! ✌️
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emissao_)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvbh0PttoHSeyRDj7RswQDg)
@@ -20,8 +20,8 @@
 <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><BR>
 
-Sobre Mim 🔥
+About me🔥
 ***
-Desenvolvedor Back-End. 
+Backend developer. 
 Migrando de uma carreira em química, tendo atuado no campo da licenciatura e bacharel. Experiência em comunicação com grupos e organização de projetos e pesquisas.
 Focado em evoluir cada vez mais na área tecnológica e nas relações com as pessoas ao redor, sempre disposto a aprender e entregar o melhor trabalho possível.
