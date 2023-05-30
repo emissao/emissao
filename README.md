@@ -8,7 +8,7 @@
 
 ![Emissao's GitHub stats](https://github-readme-stats.vercel.app/api?username=emissao&show_icons=true&theme=dracula)
 
-## Tecnologias que estudo e uso no dia a dia
+## Tecnologias que estudo e uso no dia a dia:
 
 <div style="display: inline_block"><br>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
