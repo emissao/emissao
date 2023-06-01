@@ -29,10 +29,10 @@ Nowadays i'm focusing in become a great backend developer. Sometimes I made some
 
 ## Curiosities about me
 -I started to play guitar when i was 8 years old, and never stoped studying. I had a lot bands and projects. Had played and some live concerts and festivals here in brazil!;
-- studied english for many years in school and courses, but i trully learned when i watched 'Friends' and 'How I met your mother' in english without sublititles;
--y family is full of musicians and listen to good music and playing its kind a 'family stuff' when we meet up;
-- love travel abroad; 
--ne of my dreams is travel to italy, beacause my grandmother's family is italian and i want to connect with those roots;
-- really like to help people;
-- really like teaching;
+-studied english for many years in school and courses, but i trully learned when i watched 'Friends' and 'How I met your mother' in english without sublititles;
+-My family is full of musicians and listen to good music and playing its kind a 'family stuff' when we meet up;
+-love travel abroad; 
+-One of my dreams is travel to italy, beacause my grandmother's family is italian and i want to connect with those roots;
+-really like to help people;
+-really like teaching;
   
