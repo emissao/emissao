@@ -21,7 +21,6 @@
 </div><BR>
 
 ## Public information:
-***
 My name is Emerson Alves. I currently live in Rio de Janeiro, Brazil.
 I have a chemistry degree at UERJ (State University of Rio de Janeiro). I have experience working as a chemistry teacher and chemist in the  industry laboratory.
 Started the journey as a developer when my love for tech become bigger than my passion for chemistry!  
