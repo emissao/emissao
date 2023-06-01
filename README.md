@@ -20,8 +20,9 @@
 <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><BR>
 
-About me🔥
+## Public information:
 ***
-Backend developer. 
-Migrando de uma carreira em química, tendo atuado no campo da licenciatura e bacharel. Experiência em comunicação com grupos e organização de projetos e pesquisas.
-Focado em evoluir cada vez mais na área tecnológica e nas relações com as pessoas ao redor, sempre disposto a aprender e entregar o melhor trabalho possível.
+My name is Emerson Alves. I currently live in Rio de Janeiro, Brazil.
+I have a chemistry degree at UERJ (State University of Rio de Janeiro). I have experience working as a chemistry teacher and chemist in the  industry laboratory.
+Started the journey as a developer when my love for tech become bigger than my passion for chemistry!  
+Nowadays i'm focusing in become a great backend developer. Sometimes I made some frontend stuff😅
