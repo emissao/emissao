@@ -32,7 +32,7 @@ Nowadays i'm focusing in become a great backend developer. Sometimes, I do some 
 - I studied english for many years in school and courses, but i trully learned when i watched 'Friends' and 'How I met your mother' in english without subtitles;
 - My family is full of musicians. Listen to good music and playing its kind a 'family stuff' when we meet up;
 - love travel abroad; 
-- One of my dreams is travel to italy, beacause my grandmother's family is italian and i want to connect with those roots;
+- One of my dreams is travel to Italy, beacause my grandmother's family is italian and i want to connect with those roots;
 - Really like to help people;
 - Really like teaching;
   
