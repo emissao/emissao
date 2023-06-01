@@ -25,11 +25,11 @@ My name is Emerson Alves. I currently live in Rio de Janeiro, Brazil.
 I have a chemistry degree at UERJ (State University of Rio de Janeiro). I have experience working as a chemistry teacher and chemist in the industry's laboratories.
 Currently studing System Information in a university. 
 Started the journey as a developer when my love for tech become bigger than my passion for chemistry!  
-Nowadays i'm focusing in become a great backend developer. Sometimes I made some frontend stuff😅
+Nowadays i'm focusing in become a great backend developer. Sometimes, I do some frontend stuff😅
 
 ## Curiosities about me
 - I started to play guitar when i was 8 years old, and never stoped studying. I had a lot bands and projects. Had played and some live concerts and festivals here in brazil!;
-- I studied english for many years in school and courses, but i trully learned when i watched 'Friends' and 'How I met your mother' in english without sublititles;
+- I studied english for many years in school and courses, but i trully learned when i watched 'Friends' and 'How I met your mother' in english without subtitles;
 - My family is full of musicians. Listen to good music and playing its kind a 'family stuff' when we meet up;
 - love travel abroad; 
 - One of my dreams is travel to italy, beacause my grandmother's family is italian and i want to connect with those roots;
