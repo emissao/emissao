@@ -26,10 +26,9 @@ MMy name is Emerson Alves, and I reside in Rio de Janeiro, Brazil. I hold a degr
 Currently, I am pursuing studies in System Information, and my journey into the world of technology began when my fascination for tech surpassed my passion for chemistry. I've now set my sights on becoming a proficient backend developer, although I occasionally dabble in frontend work 😅.
 
 ## Curiosities about me
-- I started to play guitar when i was 8 years old, and never stoped studying. I had a lot bands and projects. Had played in some live concerts and festivals here in brazil!;
-- I studied english for many years in school and courses, but i trully learned when i watched 'Friends' and 'How I met your mother' in english without subtitles;
-- My family is full of musicians. Listening to good music and playing its kind a 'family stuff' when we meet up;
-- I love to travel abroad; 
-- One of my dreams is travel to Italy, beacause my grandmother's family is italian and i want to connect with those roots;
-- Really like to help people;
-- Really like teaching;
+- I started playing the guitar when I was 8 years old and have never stopped studying since. Over the years, I have been part of numerous bands and projects, and I've had the opportunity to perform in live concerts and festivals here in Brazil!
+- My journey to learn English took me through school and various courses, but it wasn't until I started watching 'Friends' and 'How I Met Your Mother' in English without subtitles that I truly grasped the language.
+- Music runs deep in my family, and we share a common love for it. Whenever we gather, listening to good music and playing instruments is a cherished tradition.
+- I have a strong passion for traveling abroad, and one of my dreams is to visit Italy, connecting with my Italian roots through my grandmother's family. 
+-I have a strong passion for traveling abroad, and one of my dreams is to visit Italy, connecting with my Italian roots through my grandmother's family.
+- Helping others brings me immense joy, and I find great satisfaction in teaching as well;
