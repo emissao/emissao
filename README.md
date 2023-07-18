@@ -21,11 +21,9 @@
 </div><BR>
 
 ## About Me
-My name is Emerson Alves. I currently live in Rio de Janeiro, Brazil.
-I have a chemistry degree at UERJ (State University of Rio de Janeiro). I have experience working as a chemistry teacher and chemist in the industry's laboratories.
-Currently studing System Information. 
-Started the journey as a developer when my love for tech became bigger than my passion for chemistry!  
-Nowadays i'm focusing in become a great backend developer. Sometimes, I do some frontend stuff😅
+MMy name is Emerson Alves, and I reside in Rio de Janeiro, Brazil. I hold a degree in Chemistry from UERJ (State University of Rio de Janeiro). Throughout my career, I've gained valuable experience working as both a chemistry teacher and a chemist in various industry laboratories.
+
+Currently, I am pursuing studies in System Information, and my journey into the world of technology began when my fascination for tech surpassed my passion for chemistry. I've now set my sights on becoming a proficient backend developer, although I occasionally dabble in frontend work 😅.
 
 ## Curiosities about me
 - I started to play guitar when i was 8 years old, and never stoped studying. I had a lot bands and projects. Had played in some live concerts and festivals here in brazil!;
