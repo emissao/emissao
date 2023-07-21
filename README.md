@@ -28,6 +28,8 @@ My name is Emerson Alves, and I reside in Rio de Janeiro, Brazil. I hold a degre
 
 Currently, I am pursuing studies in System Information, and my journey into the world of technology began when my fascination for tech surpassed my passion for chemistry. I've now set my sights on becoming a proficient backend developer, although I occasionally dabble in frontend work 😅.
 
+I'm always eager to explore emerging technologies and stay up-to-date with the latest trends in the software industry. This curiosity fuels my desire to continually improve my skills and embrace new challenges.
+
 ## Curiosities about me
 - I started playing the guitar when I was 8 years old and have never stopped studying since. Over the years, I have been part of numerous bands and projects, and I've had the opportunity to perform in live concerts and festivals here in Brazil!
 - My journey to learn English took me through school and various courses, but it wasn't until I started watching 'Friends' and 'How I Met Your Mother' in English without subtitles that I truly grasped the language.
@@ -35,7 +37,7 @@ Currently, I am pursuing studies in System Information, and my journey into the 
 - I have a strong passion for traveling abroad, and one of my dreams is to visit Italy, connecting with my Italian roots through my grandmother's family. 
 - I have a strong passion for traveling abroad, and one of my dreams is to visit Italy, connecting with my Italian roots through my grandmother's family.
 - Helping others brings me immense joy, and I find great satisfaction in teaching as well;
-
+  
 ## Detailed information
 - Name: Emerson Alves
 - Age: 24
