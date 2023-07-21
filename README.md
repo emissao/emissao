@@ -42,5 +42,13 @@ I'm always eager to explore emerging technologies and stay up-to-date with the l
 - Name: Emerson Alves
 - Age: 24
 - Living in: Rio de janeiro, Brazil 
-- Stack: C# - .NET - Javascript - HTML5 - CSS3 - SQL - GIT 
+- Programming Languages: C#, JavaScript
+- Frameworks: .NET
+- Web Technologies: HTML5, CSS3
+- Database: SQL
+- Version Control: GIT
+
+## Languages:
+-  Portuguese (Native)
+-  English (Fluent)
 
