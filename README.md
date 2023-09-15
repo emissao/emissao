@@ -35,20 +35,19 @@ I'm always eager to explore emerging technologies and stay up-to-date with the l
 - My journey to learn English took me through school and various courses, but it wasn't until I started watching 'Friends' and 'How I Met Your Mother' in English without subtitles that I truly grasped the language.
 - Music runs deep in my family, and we share a common love for it. Whenever we gather, listening to good music and playing instruments is a cherished tradition.
 - I have a strong passion for traveling abroad, and one of my dreams is to visit Italy, connecting with my Italian roots through my grandmother's family. 
-- I have a strong passion for traveling abroad, and one of my dreams is to visit Italy, connecting with my Italian roots through my grandmother's family.
 - Helping others brings me immense joy, and I find great satisfaction in teaching as well;
   
 ## Detailed information
 - Name: Emerson Alves
 - Age: 24
 - Living in: Rio de janeiro, Brazil 
-- Programming Languages: C#, JavaScript
-- Frameworks: .NET
+- Programming Languages: C#, JavaScript, TypeScript
+- Frameworks: .NET,  React Native
 - Web Technologies: HTML5, CSS3
-- Database: SQL
+- Database: SQL(MySQL, PostgreSQL)
 - Version Control: GIT
 
 ## Languages:
 -  Portuguese (Native)
 -  English (Fluent)
-
+- Italian (basic) 
