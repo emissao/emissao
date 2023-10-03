@@ -50,4 +50,4 @@ I'm always eager to explore emerging technologies and stay up-to-date with the l
 ## Languages:
 -  Portuguese (Native)
 -  English (Fluent)
-- Italian (basic) 
+- Italian (basic) .
