@@ -39,7 +39,6 @@ I'm always eager to explore emerging technologies and stay up-to-date with the l
   
 ## Detailed information
 - Name: Emerson Alves
-- Age: 24
 - Living in: Rio de janeiro, Brazil 
 - Programming Languages: C#, JavaScript, TypeScript
 - Frameworks: .NET,  React Native
