@@ -13,7 +13,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/francielekuchler/count.svg"
+    src="https://profile-counter.glitch.me/emissao/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
