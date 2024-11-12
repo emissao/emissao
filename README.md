@@ -7,16 +7,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/emissao)
 
 ![Emissao's GitHub stats](https://github-readme-stats.vercel.app/api?username=emissao&show_icons=true&theme=dracula)
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/emissao/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
 
 ## Languages and Tools
 
